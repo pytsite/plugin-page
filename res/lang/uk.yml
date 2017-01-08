@@ -1,0 +1,17 @@
+odm_ui_browser_title_page: 'Сторінки'
+odm_ui_form_title_create_page: 'Нова сторінка'
+odm_ui_form_title_modify_page: 'Зміна сторінки'
+odm_ui_form_title_delete_page: 'Видалення сторінок'
+
+odm_auth_create_page: 'Створення сторінок'
+odm_auth_view_own_page: 'Перегляд ВЛАСНИХ сторінок'
+odm_auth_view_page: 'Перегляд ВСІХ сторінок'
+odm_auth_modify_own_page: 'Зміна ВЛАСНИХ сторінок'
+odm_auth_modify_page: 'Зміна БУДЬ-ЯКИХ сторінок'
+odm_auth_delete_own_page: 'Видалення ВЛАСНИХ сторінок'
+odm_auth_delete_page: 'Видалення БУДЬ-ЯКИХ сторінок'
+
+content_perm_bypass_moderation_page: 'Публікація сторінок без модерації'
+content_perm_set_localization_page: 'Управління локалізацією сторінок'
+content_perm_set_publish_time_page: 'Управління часом публікації сторінок'
+content_perm_set_starred_page: "Встановлювати прапор 'Закріплено' для сторінок"

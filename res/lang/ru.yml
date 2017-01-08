@@ -1,0 +1,17 @@
+odm_ui_browser_title_page: 'Страницы'
+odm_ui_form_title_create_page: 'Создание страницы'
+odm_ui_form_title_modify_page: 'Изменение страницы'
+odm_ui_form_title_delete_page: 'Удаление страниц'
+
+odm_auth_create_page: 'Создание страниц'
+odm_auth_view_own_page: 'Просмотр СВОИХ страниц'
+odm_auth_view_page: 'Просмотр ВСЕХ страниц'
+odm_auth_modify_own_page: 'Изменение СВОИХ страниц'
+odm_auth_modify_page: 'Изменение ЛЮБЫХ страниц'
+odm_auth_delete_own_page: 'Удаление СВОИХ страниц'
+odm_auth_delete_page: 'Удаление ЛЮБЫХ страниц'
+
+content_perm_bypass_moderation_page: 'Публикация страниц без модерации'
+content_perm_set_localization_page: 'Управление локализацией страниц'
+content_perm_set_publish_time_page: 'Управление временем публикации страниц'
+content_perm_set_starred_page: "Устанавливать флаг 'Закрепелно' для страниц"
