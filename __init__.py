@@ -12,3 +12,6 @@ def _init():
     from pytsite import lang
 
     lang.register_package(__name__, alias='page')
+
+
+_init()
