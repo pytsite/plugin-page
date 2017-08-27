@@ -1,4 +1,6 @@
 {
+  "name": "plugins.page",
+  "version": "0.1.2",
   "description": {
     "en": "Page",
     "ru": "Page",
