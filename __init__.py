@@ -11,7 +11,7 @@ __license__ = 'MIT'
 def _init():
     from pytsite import lang
 
-    lang.register_package(__name__, alias='page')
+    lang.register_package(__name__)
 
 
 _init()
