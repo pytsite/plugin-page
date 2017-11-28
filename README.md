@@ -4,6 +4,11 @@
 ## Changelog
 
 
+### 0.1.4 (2017-11-28)
+
+`plugin.json` fixed.
+
+
 ### 0.1.3 (2017-11-26)
 
 `plugin.json` updated.
