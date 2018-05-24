@@ -4,6 +4,12 @@
 ## Changelog
 
 
+### 1.1 (2018-05-25)
+
+- `Page` class exposed to the public API.
+- Init code fixed.
+
+
 ### 1.0 (2017-12-13)
 
 Support for PytSite-7.0.

@@ -14,4 +14,3 @@ odm_auth_delete_page: 'Видалення БУДЬ-ЯКИХ сторінок'
 content_perm_bypass_moderation_page: 'Публікація сторінок без модерації'
 content_perm_set_localization_page: 'Управління локалізацією сторінок'
 content_perm_set_publish_time_page: 'Управління часом публікації сторінок'
-content_perm_set_starred_page: "Встановлювати прапор 'Закріплено' для сторінок"

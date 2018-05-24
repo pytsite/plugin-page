@@ -1,14 +1,14 @@
-"""PytSite Page Plugin Models.
+"""PytSite Page Plugin Models
 """
-from plugins import article as _article
-
 __author__ = 'Alexander Shepetko'
 __email__ = 'a@shepetko.com'
 __license__ = 'MIT'
 
+from plugins import article as _article
+
 
 class Page(_article.model.Article):
-    """Page Model.
+    """Page Model
     """
 
     def _setup_fields(self):

@@ -1,6 +1,6 @@
 {
   "name": "page",
-  "version": "1.0",
+  "version": "1.1",
   "description": {
     "en": "Page",
     "ru": "Page",
@@ -13,7 +13,6 @@
     "url": "https://shepetko.com"
   },
   "requires": {
-    "packages": [],
     "plugins": [
       "article"
     ]
