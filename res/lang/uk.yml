@@ -1,3 +1,5 @@
+pages: 'Сторінки'
+
 odm_ui_browser_title_page: 'Сторінки'
 odm_ui_form_title_create_page: 'Нова сторінка'
 odm_ui_form_title_modify_page: 'Зміна сторінки'

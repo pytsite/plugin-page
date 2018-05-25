@@ -20,3 +20,7 @@ class Page(_article.model.Article):
 
         self.remove_field('section')
         self.remove_field('starred')
+
+    @classmethod
+    def odm_auth_permissions_group(cls) -> str:
+        return 'page'

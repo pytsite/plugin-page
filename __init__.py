@@ -11,5 +11,7 @@ from ._model import Page
 
 def plugin_load():
     from pytsite import lang
+    from plugins import permissions
 
     lang.register_package(__name__)
+    permissions.define_group('page', 'page@pages')
