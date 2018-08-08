@@ -4,9 +4,14 @@
 ## Changelog
 
 
+### 1.3 (2018-08-09)
+
+Support of `odm_auth-1.9`.
+
+
 ### 1.2 (2018-05-25)
 
-Moved to separate `odm_auth`'s permission group.
+Permissions moved to separate group.
 
 
 ### 1.1 (2018-05-25)
