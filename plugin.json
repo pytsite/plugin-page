@@ -1,6 +1,6 @@
 {
   "name": "page",
-  "version": "2.0",
+  "version": "2.1",
   "description": {
     "en": "Page",
     "ru": "Page",
@@ -15,8 +15,9 @@
   "requires": {
     "pytsite": ">=8",
     "plugins": {
-      "article": "3.x",
-      "odm_auth": "2.x"
+      "article": ">=3.7<4",
+      "content": ">=5.11<6",
+      "odm_auth": "3.x"
     }
   }
 }

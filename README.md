@@ -4,6 +4,11 @@
 ## Changelog
 
 
+### 2.1 (2019-01-07)
+
+Support of `content-5.11` and `article-3.7`.
+
+
 ### 2.0 (2018-10-11)
 
 Support of `pytsite-8.x`.
