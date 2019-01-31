@@ -16,3 +16,7 @@ odm_auth_delete_page: 'Удаление ЛЮБЫХ страниц'
 content_perm_bypass_moderation_page: 'Публикация страниц без модерации'
 content_perm_set_localization_page: 'Управление локализацией страниц'
 content_perm_set_publish_time_page: 'Управление временем публикации страниц'
+
+content_status_page_published: 'Опубликовано'
+content_status_page_waiting: 'На модерации'
+content_status_page_unpublished: 'Черновик'

@@ -16,3 +16,7 @@ odm_auth_delete_page: 'Delete ANY page'
 content_perm_bypass_moderation_page: 'Publish pages without moderation'
 content_perm_set_localization_page: 'Manage localizations of pages'
 content_perm_set_publish_time_page: 'Manage publish time of pages'
+
+content_status_page_published: 'Published'
+content_status_page_waiting: 'Waiting for moderation'
+content_status_page_unpublished: 'Draft'

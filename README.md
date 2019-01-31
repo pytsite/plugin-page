@@ -4,6 +4,11 @@
 ## Changelog
 
 
+### 2.2 (2019-01-31)
+
+Support of `content-5.16`.
+
+
 ### 2.1 (2019-01-07)
 
 Support of `content-5.11` and `article-3.7`.
