@@ -4,6 +4,11 @@
 ## Changelog
 
 
+### 2.3 (2019-03-04)
+
+Support of `odm-6.0`.
+
+
 ### 2.2 (2019-01-31)
 
 Support of `content-5.16`.

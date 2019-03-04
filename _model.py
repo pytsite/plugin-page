@@ -12,11 +12,11 @@ class Page(_article.model.Article):
     """
 
     def _setup_fields(self):
-        """Hook.
+        """Hook
         """
         super()._setup_fields()
 
-        self.get_field('images').required = False
+        self.get_field('images').is_required = False
 
         self.remove_field('section')
         self.remove_field('starred')

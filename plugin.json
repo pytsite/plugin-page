@@ -1,6 +1,6 @@
 {
   "name": "page",
-  "version": "2.2",
+  "version": "2.3",
   "description": {
     "en": "Page",
     "ru": "Page",
@@ -13,11 +13,12 @@
     "url": "https://shepetko.com"
   },
   "requires": {
-    "pytsite": ">=8",
+    "pytsite": ">=8.9",
     "plugins": {
-      "article": ">=3.7<4",
-      "content": ">=5.16<6",
-      "odm_auth": "3.x"
+      "article": "^3.7",
+      "content": "^5.16",
+      "odm": "^6.0",
+      "odm_auth": "^3.0"
     }
   }
 }
