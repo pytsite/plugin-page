@@ -1,6 +1,6 @@
 {
   "name": "page",
-  "version": "2.4",
+  "version": "2.5",
   "description": {
     "en": "Page",
     "ru": "Page",
@@ -18,7 +18,7 @@
       "article": "^3.7",
       "content": "^6.0",
       "odm": "^6.0",
-      "odm_auth": "^3.0"
+      "odm_auth": "^4.0"
     }
   }
 }

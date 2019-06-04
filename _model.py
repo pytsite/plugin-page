@@ -4,10 +4,10 @@ __author__ = 'Oleksandr Shepetko'
 __email__ = 'a@shepetko.com'
 __license__ = 'MIT'
 
-from plugins import article as _article
+from plugins import article
 
 
-class Page(_article.model.Article):
+class Page(article.Article):
     """Page Model
     """
 
